@@ -1,0 +1,3 @@
+export const UNLOCK_REQUEST = 'UNLOCK_REQUEST';
+export const UNLOCK_SUCCESS = 'UNLOCK_SUCCESS';
+export const UNLOCK_FAIL = 'UNLOCK_FAIL';

@@ -1,0 +1,366 @@
+{
+  "name": "Manu Sharma",
+  "email": "someone@nowhere.com",
+  "phone": "9876543210",
+  "image": "https://lh3.googleusercontent.com/-ErO7oI9TyOc/WUiofHfASxI/AAAAAAAAE_I/PqV57ccNj4wW7e7B_q0eWo7CX3qE8rhrQCEwYBhgL/w139-h140-p/IMAG0006.jpg",
+  "website": "In Progress ...",
+  "title": "UI Developer",
+  "twitter": "@manukumar",
+  "twitterURL": "https://twitter.com/manukumr02",
+  "linkedin": "https://www.linkedin.com/in/manu-sharma-75670840/",
+  "github": "https://github.com/manukumar02",
+  "careerObjective": "Seeking opportunity to work as Team Lead/Developer in your esteemed organization where skills are given a wider perspective and an individual's diligence is accredited. Willing to inculcate my product managerial skills along with the IT skills with significant emphasis into the role in order to expand business & create new opportunities",
+  "careerSummary": [
+    "Total 9+ years of professional I.T. experience which includes project leadership, development, Support.",
+    "1.6 Years of NPI Product development experience as Senior Developer in Eaton",
+    "3.8 year of experience as developer in TCS.",
+    "3.11 years of experience as develop and Team Lead in Accenture.",
+    "Good Coding Skills in Angular 7, Angular Material 7, HTML5, CSS [2 & 3] both LESS & SASS, Typescript, Javascript,Angular JS, Handlebars [Template], core Java. (Previous Eaton projects using Angular 5 and Angular Material 5)",
+    "Good problem solving skills with a strong technical background and good interpersonal skills.",
+    "Experience in working in Agile Methodology of Software Project Development with Scrum and Sprint"
+  ],
+  "experiences": [
+    {
+      "id": 0,
+      "role": "Senior Developer (Individual Contributor)",
+      "period": "Nov 2018 - Present",
+      "projectName": "WLX-Lighting-Solution",
+      "client": "Product of Eaton",
+      "teamSize": "5",
+      "tools": "Visual studio code",
+      "languages": [
+        "Cordova 8",
+        "Swift 4",
+        "Angular 7",
+        "Angular Material 7",
+        "Typescript",
+        "Javascript",
+        "HTML 5",
+        "CSS",
+        "GIT"
+      ],
+      "company": "Eaton Technologies",
+      "companyURL": "http://www.eaton.in/EatonIN/index.htm",
+      "description": "Working as a Senior developer for the WLX-Lighting Solution, it is a product of Eaton, in which my responsibility is to Develop hybrid Mobile App and Web Portal using Cordova and Angular for BLE-SigMesh, Mobile app will be used for Provisiong of Mesh Devices and Control, as per Eaton UI standard. Improve performance",
+      "responsibilities": [
+        "Requirement Gathering from the marketing team and make significant changes to improve the product.",
+        "Project estimations",
+        "Participate in sprint planning.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart, Marketing Team.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 1,
+      "role": "Senior Developer (Individual Contributor)",
+      "period": "Aug 2018 - Nov 2018",
+      "projectName": "Scene Player - Lumadapt",
+      "client": "Product of Eaton",
+      "teamSize": "1",
+      "tools": "Visual studio code",
+      "languages": [
+        "Electronjs",
+        "React 16",
+        "Redux",
+        "Material-UI 3",
+        "Javascript",
+        "HTML 5",
+        "CSS",
+        "GIT"
+      ],
+      "company": "Eaton Technologies",
+      "companyURL": "http://www.eaton.in/EatonIN/index.htm",
+      "description": "Working as a Senior developer for the Scene Player App (Desktop Application), it is a product of Eaton, in which my responsibility is to develop a desktop application which communicates with the gateway over web-sockets and the technologies used for this desktop application are Electronjs and React with Redux and Material-ui design as per Eaton UI standard. Improve performance",
+      "responsibilities": [
+        "Requirement Gathering from the marketing team and make significant changes to improve the product.",
+        "Project estimations",
+        "Participate in sprint planning.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart, Marketing Team.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Senior Developer (Individual Contributor)",
+      "period": "Sept 2017 - Aug 2018",
+      "projectName": "Civitas",
+      "client": "Product of Eaton",
+      "teamSize": "5",
+      "tools": "Visual studio code",
+      "languages": [
+        "Angular 5",
+        "Angular 6",
+        "Angular Material 5",
+        "Typescript",
+        "HTML 5",
+        "Ionic 3",
+        "SCSS",
+        "GIT"
+      ],
+      "company": "Eaton Technologies",
+      "companyURL": "http://www.eaton.in/EatonIN/index.htm",
+      "description": "Working as a Senior developer for the Civitas project, it is a product of Eaton, in which my responsibility is design the front-end using Angular 5, Angular Material 5, HTML5, Typescript, Javascript, CSS. And Eaton UI standard.",
+      "responsibilities": [
+        "Requirement Gathering task estimation and development.",
+        "Project estimations",
+        "Participate in sprint planning.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart, Marketing Team.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Team Lead and developer",
+      "period": "April 2016 – Sept 2017",
+      "projectName": "Qual Tool",
+      "client": "AT&T",
+      "teamSize": "14",
+      "tools": ["Visual studio code", "sublime text3", "Intellij Idea"],
+      "languages": [
+        "Angular 2",
+        "AngularJS",
+        "Typescript",
+        "Javascript",
+        "jQuery",
+        "jQuery-ui",
+        "CSS",
+        "GIT",
+        "Agile"
+      ],
+      "company": "Accenture",
+      "companyURL": "https://www.accenture.com/in-en/new-applied-now",
+      "description": "The tool that we developed is a CRM for the client’s sellers. It is being developed using Java, Javascript, JQueryUI, and AngularJS. The basic purpose of this tool is to validate any kind of Address, just to make sure if the seller is selling any product to a specific location is valid or not ",
+      "responsibilities": [
+        "Requirement Gathering task estimation and development.",
+        "Project estimations",
+        "Participate in sprint planning.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart, Marketing Team.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 4,
+      "role": "Senior Software Developer(SSE)",
+      "period": "April 2015 – Mar 2016",
+      "projectName": "Rhythm Release",
+      "client": "INFOR",
+      "teamSize": "30",
+      "tools": ["Visual studio code", "sublime text3", "Intellij Idea"],
+      "languages": ["AngularJS", "Javascript", "jQuery", "CSS", "GIT", "Agile"],
+      "company": "Accenture",
+      "companyURL": "https://www.accenture.com/in-en/new-applied-now",
+      "description": "Working as a Senior developer for a project with a distributed international team. Infor Rhythm is unique in that it involves merging modern web technologies like Backbone.js (with Marionette), CSS [SASS] all together with an open source back end portal (Liferay) to create a Customizable eco-system of application widgets. All the widgets work together to complete an overall application experience, that is Ecommerce application. As a senior developer, I developed the widgets for the solution for how these widgets will work together in such a way so that the overall solution can be customized and sold to Client's end customers. In addition to widget development, I developed the CSS with two teams of developers (onshore, offshore) for all the widgets added in the Liferay.",
+      "responsibilities": [
+        "Requirement Gathering task estimation and development.",
+        "Project estimations",
+        "Participate in sprint planning.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart, Marketing Team.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 5,
+      "role": "Senior Software Developer(SSE)",
+      "period": "Nov 2014 – Dec 2015",
+      "projectName": "T-Mobile ePlatform and Rhythm Release",
+      "client": "T-Mobile",
+      "teamSize": "10",
+      "tools": ["Visual studio code", "sublime text3", "Intellij Idea"],
+      "languages": ["AngularJS", "Javascript", "jQuery", "CSS", "GIT", "Agile"],
+      "company": "Accenture",
+      "companyURL": "https://www.accenture.com/in-en/new-applied-now",
+      "description": "Working as development lead for the Pegasus Team in T-Mobile and paralley working on new project Rhythm Releaase starting mid of April.",
+      "responsibilities": [
+        "Requirement Gathering task estimation and development.",
+        "Project estimations",
+        "Participate in sprint planning.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart, Marketing Team.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 6,
+      "role": "Senior Software Developer(SSE)",
+      "period": "Oct 2013 – Nov 2014",
+      "projectName": "Smart Water",
+      "client": "Thames Water",
+      "teamSize": "10",
+      "tools": ["Visual studio code", "sublime text3", "Intellij Idea"],
+      "languages": [
+        "Core Java",
+        "STI (Space Time Insight)",
+        "Javascript",
+        "jQuery",
+        "CSS",
+        "Agile"
+      ],
+      "company": "Accenture",
+      "companyURL": "https://www.accenture.com/in-en/new-applied-now",
+      "description": "Working as a developer for the Thames water project, it is a water treatment project, in which my responsibility is design the front-end using Java, HTML, CSS and jQuery. And space time insight tool.",
+      "responsibilities": [
+        "Requirement Gathering task estimation and development.",
+        "Project estimations",
+        "Participate in sprint planning.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart, Marketing Team.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 7,
+      "role": "System Analyst",
+      "period": "Feb 2011 – Sept 2013",
+      "projectName": "DD Microsoft Global TechProducer",
+      "client": "Microsoft Corporation",
+      "teamSize": "12",
+      "tools": ["Visual studio 2008"],
+      "languages": ["HTML", "XSLT", "Javascript", "jQuery", "CSS"],
+      "company": "Tata Consultancy Services",
+      "companyURL": "https://www.tcs.com/",
+      "description": "GTP is based on OSD (online service division). It provides business solution for MSN pages. User can see the latest contents on the msn pages. Data updating is managed by an automated service known as Content management",
+      "responsibilities": [
+        "Requirement Gathering.",
+        "Project estimations.",
+        "Participate in sprint planning.",
+        "Monitor overall ticketing activities.",
+        "Client interaction and communication.",
+        "Provide Functional Training to end user.",
+        "Internal team meetings for status tracking."
+      ]
+    },
+    {
+      "id": 8,
+      "role": "System Analyst",
+      "period": "Dec 2009 – Jan 2011",
+      "projectName": "Distributed Development (DD Group)",
+      "client": "Microsoft Corporation",
+      "teamSize": "40",
+      "tools": ["Visual studio 2008"],
+      "languages": ["HTML", "XSLT", "Javascript", "jQuery", "CSS"],
+      "company": "Tata Consultancy Services",
+      "companyURL": "https://www.tcs.com/",
+      "description": "Distributed Development (DD) is an online service division group mainly design, build and maintain all types of campaigns aiming short timelines and quick turnaround. It also provides various services right  from tool, application, feature development, enhancement, JavaScript Security review, maintenance, support including live sites.DD Services works in a horizontal manner in Microsoft Corporation. It provides 2nd tier support to all product and services groups. Industrial practices are where we combine evolution of technologies, proven sustainable methodologies, and better resource management and incorporate those principles in to products and services to transform the applications falls under DD. The successful development of such a system requires a careful analysis of existing established work practices and available information-technology (IT) infrastructure. This is essential for providing a cost-effective solution which will be accepted by the users and can be evolved in the future.",
+      "responsibilities": [
+        "Requirement Gathering task estimation and development.",
+        "Clarify any issue(s) (technical/functional) with onsite coordinator, counterpart",
+        "Internal team meetings for status tracking."
+      ]
+    }
+  ],
+  "awardsAndActivities": [
+    "Won E-Star Award at Eaton.",
+    "Won Trendsetter Award at Accenture.",
+    "Won ‘On the Spot’ award for performance various times.",
+    "Participated in capacity planning and estimations.",
+    "Effectively planned activities to deliver good quality on time.",
+    "Effectively used my development skills to resolve the quality issues of the team.",
+    "Communicated & persuaded with client to resolve the queries."
+  ],
+  "skills": [
+    {
+      "name": "Angular (2, 4, 5, 6, 7)",
+      "percent": "85"
+    },
+    {
+      "name": "Angular Material (5, 6, 7)",
+      "percent": "85"
+    },
+    {
+      "name": "Swift 4",
+      "percent": "60"
+    },
+    {
+      "name": "Reactjs 16",
+      "percent": "75"
+    },
+    {
+      "name": "React Material-UI (3)",
+      "percent": "75"
+    },
+    {
+      "name": "Redux",
+      "percent": "65"
+    },
+    {
+      "name": "Javascript",
+      "percent": "90"
+    },
+    {
+      "name": "Typescript",
+      "percent": "90"
+    },
+    {
+      "name": "Handlebars",
+      "percent": "80"
+    },
+    {
+      "name": "HTML5 & CSS",
+      "percent": "99"
+    },
+    {
+      "name": "AngularJS",
+      "percent": "80"
+    },
+    {
+      "name": "Node.js",
+      "percent": "70"
+    },
+    {
+      "name": "JQuery, JQueryUI & JQuery-mobile",
+      "percent": "95"
+    },
+    {
+      "name": "JSON, Ajax",
+      "percent": "90"
+    },
+    {
+      "name": "WEBPACK",
+      "percent": "90"
+    }
+  ],
+  "otherSkills": [
+    "DevOps",
+    "Code Review",
+    "Review Git Unit",
+    "Testing",
+    "Wireframing",
+    "D3 JS",
+    "GIT",
+    "Core Java",
+    "JSP",
+    "AGILE [Rallydev, JIRA]",
+    "GULP",
+    "GRUNT"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "university": "Orissa Engineering College, Bhubaneswar",
+      "period": "2005 - 2009"
+    },
+    {
+      "degree": "+2 Science",
+      "university": "Bhadrak(Jr) College, Bhadrak",
+      "period": "2002 - 2004"
+    },
+    {
+      "degree": "10Th ICSE",
+      "university": "Sunshine Mission School, Bhadrak",
+      "period": "2001 - 2002"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "details": "Professional"
+    },
+    {
+      "name": "Hindi",
+      "details": "Native"
+    },
+    {
+      "name": "Odiya",
+      "details": "Native"
+    }
+  ],
+  "interests": ["Climbing", "Snowboarding", "Cooking", "Coding"]
+}
